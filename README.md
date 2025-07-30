@@ -1,0 +1,2 @@
+# Signatur
+E-Mail-Signaturbilder
